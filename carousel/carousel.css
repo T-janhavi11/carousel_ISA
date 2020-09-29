@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+}
+.bg{
+    background-color: rgb(23, 39, 39);
+}
+.carousel-inner img{
+    background-size: cover;
+    margin-left: 7px;
+    margin-right: 25px !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 70vh !important;
+    width:99% !important;
+    border-color: rgb(125, 211, 240);
+    border-style: solid;
+    border-spacing: 3px;
+    padding-right: 3px;
+    border-radius: 60px;
+}
